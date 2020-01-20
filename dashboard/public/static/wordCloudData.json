@@ -1,0 +1,610 @@
+{
+    "LPC": [
+        {
+            "text": "snc",
+            "value": 130,
+            "sentiment": 0
+        },
+        {
+            "text": "minister",
+            "value": 117,
+            "sentiment": 0
+        },
+        {
+            "text": "prime",
+            "value": 116,
+            "sentiment": 0
+        },
+        {
+            "text": "bed",
+            "value": 104,
+            "sentiment": 0
+        },
+        {
+            "text": "lavelin",
+            "value": 104,
+            "sentiment": 0
+        },
+        {
+            "text": "chance",
+            "value": 84,
+            "sentiment": 0
+        },
+        {
+            "text": "byelection",
+            "value": 84,
+            "sentiment": 0
+        },
+        {
+            "text": "brink",
+            "value": 84,
+            "sentiment": 0
+        },
+        {
+            "text": "pressure",
+            "value": 84,
+            "sentiment": 0
+        },
+        {
+            "text": "many",
+            "value": 80,
+            "sentiment": 1
+        },
+        {
+            "text": "jwr",
+            "value": 79,
+            "sentiment": 0
+        },
+        {
+            "text": "win",
+            "value": 77,
+            "sentiment": 1
+        },
+        {
+            "text": "ramp",
+            "value": 76,
+            "sentiment": 0
+        },
+        {
+            "text": "life",
+            "value": 73,
+            "sentiment": 0
+        },
+        {
+            "text": "led",
+            "value": 73,
+            "sentiment": 0
+        },
+        {
+            "text": "politics",
+            "value": 51,
+            "sentiment": 0
+        },
+        {
+            "text": "two",
+            "value": 41,
+            "sentiment": 0
+        },
+        {
+            "text": "americans",
+            "value": 40,
+            "sentiment": 0
+        },
+        {
+            "text": "roughly",
+            "value": 40,
+            "sentiment": -1
+        },
+        {
+            "text": "thirds",
+            "value": 40,
+            "sentiment": 0
+        },
+        {
+            "text": "followers",
+            "value": 40,
+            "sentiment": 0
+        },
+        {
+            "text": "primer",
+            "value": 40,
+            "sentiment": 0
+        },
+        {
+            "text": "canada's",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "news",
+            "value": 32,
+            "sentiment": 0
+        },
+        {
+            "text": "trudeauvian",
+            "value": 30,
+            "sentiment": 0
+        },
+        {
+            "text": "challenger",
+            "value": 29,
+            "sentiment": 0
+        },
+        {
+            "text": "elections",
+            "value": 24,
+            "sentiment": 0
+        },
+        {
+            "text": "lavalin",
+            "value": 24,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 23,
+            "sentiment": 0
+        },
+        {
+            "text": "election",
+            "value": 22,
+            "sentiment": 0
+        }
+    ],
+    "CPC": [
+        {
+            "text": "kenney",
+            "value": 186,
+            "sentiment": 0
+        },
+        {
+            "text": "healthcare",
+            "value": 186,
+            "sentiment": 0
+        },
+        {
+            "text": "ford",
+            "value": 185,
+            "sentiment": 0
+        },
+        {
+            "text": "two",
+            "value": 184,
+            "sentiment": 0
+        },
+        {
+            "text": "tier",
+            "value": 182,
+            "sentiment": 0
+        },
+        {
+            "text": "dream",
+            "value": 182,
+            "sentiment": 0
+        },
+        {
+            "text": "group",
+            "value": 70,
+            "sentiment": 0
+        },
+        {
+            "text": "public",
+            "value": 47,
+            "sentiment": 0
+        },
+        {
+            "text": "racist",
+            "value": 36,
+            "sentiment": 0
+        },
+        {
+            "text": "yellow",
+            "value": 36,
+            "sentiment": 0
+        },
+        {
+            "text": "vests",
+            "value": 36,
+            "sentiment": 0
+        },
+        {
+            "text": "facebook",
+            "value": 35,
+            "sentiment": 0
+        },
+        {
+            "text": "content",
+            "value": 35,
+            "sentiment": 0
+        },
+        {
+            "text": "lead",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "country",
+            "value": 26,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 23,
+            "sentiment": 0
+        },
+        {
+            "text": "right",
+            "value": 18,
+            "sentiment": 1
+        },
+        {
+            "text": "broadcaster",
+            "value": 18,
+            "sentiment": 0
+        },
+        {
+            "text": "vanity",
+            "value": 18,
+            "sentiment": 0
+        },
+        {
+            "text": "press",
+            "value": 18,
+            "sentiment": 0
+        },
+        {
+            "text": "bus",
+            "value": 16,
+            "sentiment": 0
+        },
+        {
+            "text": "ch",
+            "value": 15,
+            "sentiment": 0
+        },
+        {
+            "text": "opposition",
+            "value": 13,
+            "sentiment": 0
+        },
+        {
+            "text": "one",
+            "value": 12,
+            "sentiment": 0
+        },
+        {
+            "text": "seat",
+            "value": 12,
+            "sentiment": 0
+        },
+        {
+            "text": "tax",
+            "value": 10,
+            "sentiment": 0
+        },
+        {
+            "text": "election",
+            "value": 10,
+            "sentiment": 0
+        },
+        {
+            "text": "white",
+            "value": 10,
+            "sentiment": 0
+        },
+        {
+            "text": "elections",
+            "value": 10,
+            "sentiment": 0
+        },
+        {
+            "text": "wtf",
+            "value": 10,
+            "sentiment": -1
+        }
+    ],
+    "NDP": [
+        {
+            "text": "byelection",
+            "value": 97,
+            "sentiment": 0
+        },
+        {
+            "text": "chance",
+            "value": 86,
+            "sentiment": 0
+        },
+        {
+            "text": "win",
+            "value": 80,
+            "sentiment": 1
+        },
+        {
+            "text": "group",
+            "value": 68,
+            "sentiment": 0
+        },
+        {
+            "text": "everyone",
+            "value": 58,
+            "sentiment": 0
+        },
+        {
+            "text": "reaction",
+            "value": 56,
+            "sentiment": 0
+        },
+        {
+            "text": "himsel",
+            "value": 54,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 51,
+            "sentiment": 0
+        },
+        {
+            "text": "canada's",
+            "value": 38,
+            "sentiment": 0
+        },
+        {
+            "text": "victory",
+            "value": 37,
+            "sentiment": 0
+        },
+        {
+            "text": "entrenched",
+            "value": 37,
+            "sentiment": 0
+        },
+        {
+            "text": "whiteness",
+            "value": 37,
+            "sentiment": 0
+        },
+        {
+            "text": "racism",
+            "value": 37,
+            "sentiment": 0
+        },
+        {
+            "text": "official",
+            "value": 37,
+            "sentiment": 0
+        },
+        {
+            "text": "racist",
+            "value": 35,
+            "sentiment": 0
+        },
+        {
+            "text": "politics",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "yellow",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "vests",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "facebook",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "content",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "lead",
+            "value": 34,
+            "sentiment": 0
+        },
+        {
+            "text": "trudeauvian",
+            "value": 31,
+            "sentiment": 0
+        },
+        {
+            "text": "challenger",
+            "value": 30,
+            "sentiment": 0
+        },
+        {
+            "text": "minister",
+            "value": 29,
+            "sentiment": 0
+        },
+        {
+            "text": "prime",
+            "value": 28,
+            "sentiment": 0
+        },
+        {
+            "text": "republican",
+            "value": 25,
+            "sentiment": 0
+        },
+        {
+            "text": "love",
+            "value": 24,
+            "sentiment": 1
+        },
+        {
+            "text": "country",
+            "value": 23,
+            "sentiment": 0
+        },
+        {
+            "text": "vote",
+            "value": 20,
+            "sentiment": 0
+        },
+        {
+            "text": "hope",
+            "value": 18,
+            "sentiment": 0
+        }
+    ],
+    "all": [
+        {
+            "text": "two",
+            "value": 227,
+            "sentiment": 0
+        },
+        {
+            "text": "kenney",
+            "value": 186,
+            "sentiment": 0
+        },
+        {
+            "text": "healthcare",
+            "value": 186,
+            "sentiment": 0
+        },
+        {
+            "text": "ford",
+            "value": 185,
+            "sentiment": 0
+        },
+        {
+            "text": "dream",
+            "value": 183,
+            "sentiment": 0
+        },
+        {
+            "text": "tier",
+            "value": 182,
+            "sentiment": 0
+        },
+        {
+            "text": "prime",
+            "value": 142,
+            "sentiment": 0
+        },
+        {
+            "text": "minister",
+            "value": 141,
+            "sentiment": 0
+        },
+        {
+            "text": "snc",
+            "value": 133,
+            "sentiment": 0
+        },
+        {
+            "text": "bed",
+            "value": 104,
+            "sentiment": 0
+        },
+        {
+            "text": "lavelin",
+            "value": 104,
+            "sentiment": 0
+        },
+        {
+            "text": "byelection",
+            "value": 97,
+            "sentiment": 0
+        },
+        {
+            "text": "chance",
+            "value": 89,
+            "sentiment": 0
+        },
+        {
+            "text": "pressure",
+            "value": 86,
+            "sentiment": 0
+        },
+        {
+            "text": "politics",
+            "value": 85,
+            "sentiment": 0
+        },
+        {
+            "text": "brink",
+            "value": 85,
+            "sentiment": 0
+        },
+        {
+            "text": "many",
+            "value": 81,
+            "sentiment": 1
+        },
+        {
+            "text": "win",
+            "value": 80,
+            "sentiment": 1
+        },
+        {
+            "text": "jwr",
+            "value": 79,
+            "sentiment": 0
+        },
+        {
+            "text": "ramp",
+            "value": 77,
+            "sentiment": 0
+        },
+        {
+            "text": "life",
+            "value": 73,
+            "sentiment": 0
+        },
+        {
+            "text": "led",
+            "value": 73,
+            "sentiment": 0
+        },
+        {
+            "text": "group",
+            "value": 70,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 65,
+            "sentiment": 0
+        },
+        {
+            "text": "everyone",
+            "value": 60,
+            "sentiment": 0
+        },
+        {
+            "text": "reaction",
+            "value": 56,
+            "sentiment": 0
+        },
+        {
+            "text": "himsel",
+            "value": 54,
+            "sentiment": 0
+        },
+        {
+            "text": "public",
+            "value": 52,
+            "sentiment": 0
+        },
+        {
+            "text": "canada's",
+            "value": 47,
+            "sentiment": 0
+        },
+        {
+            "text": "americans",
+            "value": 41,
+            "sentiment": 0
+        }
+    ]
+}

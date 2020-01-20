@@ -1,0 +1,1010 @@
+{
+    "LPC": [
+        {
+            "text": "minister",
+            "value": 6760,
+            "sentiment": 0
+        },
+        {
+            "text": "wilson-raybould",
+            "value": 5931,
+            "sentiment": 0
+        },
+        {
+            "text": "government",
+            "value": 5557,
+            "sentiment": 0
+        },
+        {
+            "text": "snc-lavalin",
+            "value": 4410,
+            "sentiment": 0
+        },
+        {
+            "text": "prime",
+            "value": 4088,
+            "sentiment": 0
+        },
+        {
+            "text": "new",
+            "value": 2800,
+            "sentiment": 1
+        },
+        {
+            "text": "justice",
+            "value": 2677,
+            "sentiment": 0
+        },
+        {
+            "text": "people",
+            "value": 2590,
+            "sentiment": 0
+        },
+        {
+            "text": "former",
+            "value": 2489,
+            "sentiment": 0
+        },
+        {
+            "text": "federal",
+            "value": 2285,
+            "sentiment": 0
+        },
+        {
+            "text": "political",
+            "value": 2279,
+            "sentiment": 0
+        },
+        {
+            "text": "cabinet",
+            "value": 2118,
+            "sentiment": 0
+        },
+        {
+            "text": "public",
+            "value": 1943,
+            "sentiment": 0
+        },
+        {
+            "text": "company",
+            "value": 1939,
+            "sentiment": 0
+        },
+        {
+            "text": "committee",
+            "value": 1857,
+            "sentiment": 0
+        },
+        {
+            "text": "election",
+            "value": 1813,
+            "sentiment": 0
+        },
+        {
+            "text": "general",
+            "value": 1779,
+            "sentiment": 1
+        },
+        {
+            "text": "time",
+            "value": 1590,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 1522,
+            "sentiment": 0
+        },
+        {
+            "text": "office",
+            "value": 1517,
+            "sentiment": 0
+        },
+        {
+            "text": "attorney",
+            "value": 1505,
+            "sentiment": 0
+        },
+        {
+            "text": "jody",
+            "value": 1492,
+            "sentiment": 0
+        },
+        {
+            "text": "first",
+            "value": 1448,
+            "sentiment": 1
+        },
+        {
+            "text": "one",
+            "value": 1423,
+            "sentiment": 0
+        },
+        {
+            "text": "prosecution",
+            "value": 1387,
+            "sentiment": 0
+        },
+        {
+            "text": "two",
+            "value": 1386,
+            "sentiment": 0
+        },
+        {
+            "text": "budget",
+            "value": 1345,
+            "sentiment": 0
+        },
+        {
+            "text": "years",
+            "value": 1311,
+            "sentiment": 0
+        },
+        {
+            "text": "case",
+            "value": 1310,
+            "sentiment": 0
+        },
+        {
+            "text": "philpott",
+            "value": 1303,
+            "sentiment": 0
+        },
+        {
+            "text": "country",
+            "value": 1275,
+            "sentiment": 0
+        },
+        {
+            "text": "officials",
+            "value": 1261,
+            "sentiment": 0
+        },
+        {
+            "text": "ottawa",
+            "value": 1234,
+            "sentiment": 0
+        },
+        {
+            "text": "criminal",
+            "value": 1224,
+            "sentiment": -1
+        },
+        {
+            "text": "us",
+            "value": 1204,
+            "sentiment": 0
+        },
+        {
+            "text": "decision",
+            "value": 1160,
+            "sentiment": 0
+        },
+        {
+            "text": "story",
+            "value": 1141,
+            "sentiment": 0
+        },
+        {
+            "text": "pressure",
+            "value": 1135,
+            "sentiment": 0
+        },
+        {
+            "text": "butts",
+            "value": 1130,
+            "sentiment": 0
+        },
+        {
+            "text": "mr",
+            "value": 1128,
+            "sentiment": 0
+        },
+        {
+            "text": "commons",
+            "value": 1085,
+            "sentiment": 0
+        },
+        {
+            "text": "caucus",
+            "value": 1072,
+            "sentiment": 0
+        },
+        {
+            "text": "national",
+            "value": 1067,
+            "sentiment": 0
+        },
+        {
+            "text": "cent",
+            "value": 1062,
+            "sentiment": 0
+        },
+        {
+            "text": "quebec",
+            "value": 1057,
+            "sentiment": 0
+        },
+        {
+            "text": "wernick",
+            "value": 1055,
+            "sentiment": 0
+        },
+        {
+            "text": "opposition",
+            "value": 1049,
+            "sentiment": 0
+        },
+        {
+            "text": "law",
+            "value": 1039,
+            "sentiment": 0
+        },
+        {
+            "text": "way",
+            "value": 1026,
+            "sentiment": 0
+        },
+        {
+            "text": "house",
+            "value": 1008,
+            "sentiment": 0
+        }
+    ],
+    "CPC": [
+        {
+            "text": "government",
+            "value": 2585,
+            "sentiment": 0
+        },
+        {
+            "text": "people",
+            "value": 2544,
+            "sentiment": 0
+        },
+        {
+            "text": "new",
+            "value": 2325,
+            "sentiment": 1
+        },
+        {
+            "text": "minister",
+            "value": 1897,
+            "sentiment": 0
+        },
+        {
+            "text": "president",
+            "value": 1761,
+            "sentiment": 0
+        },
+        {
+            "text": "us",
+            "value": 1567,
+            "sentiment": 0
+        },
+        {
+            "text": "time",
+            "value": 1437,
+            "sentiment": 0
+        },
+        {
+            "text": "political",
+            "value": 1358,
+            "sentiment": 0
+        },
+        {
+            "text": "year",
+            "value": 1287,
+            "sentiment": 0
+        },
+        {
+            "text": "one",
+            "value": 1225,
+            "sentiment": 0
+        },
+        {
+            "text": "prime",
+            "value": 1182,
+            "sentiment": 0
+        },
+        {
+            "text": "chief",
+            "value": 1178,
+            "sentiment": 0
+        },
+        {
+            "text": "election",
+            "value": 1169,
+            "sentiment": 0
+        },
+        {
+            "text": "first",
+            "value": 1099,
+            "sentiment": 1
+        },
+        {
+            "text": "leader",
+            "value": 1093,
+            "sentiment": 0
+        },
+        {
+            "text": "federal",
+            "value": 1081,
+            "sentiment": 0
+        },
+        {
+            "text": "country",
+            "value": 1020,
+            "sentiment": 0
+        },
+        {
+            "text": "years",
+            "value": 995,
+            "sentiment": 0
+        },
+        {
+            "text": "company",
+            "value": 959,
+            "sentiment": 0
+        },
+        {
+            "text": "officer",
+            "value": 958,
+            "sentiment": 0
+        },
+        {
+            "text": "two",
+            "value": 957,
+            "sentiment": 0
+        },
+        {
+            "text": "public",
+            "value": 895,
+            "sentiment": 0
+        },
+        {
+            "text": "executive",
+            "value": 882,
+            "sentiment": 0
+        },
+        {
+            "text": "world",
+            "value": 867,
+            "sentiment": 0
+        },
+        {
+            "text": "way",
+            "value": 866,
+            "sentiment": 0
+        },
+        {
+            "text": "former",
+            "value": 858,
+            "sentiment": 0
+        },
+        {
+            "text": "wilson-raybould",
+            "value": 837,
+            "sentiment": 0
+        },
+        {
+            "text": "trump",
+            "value": 835,
+            "sentiment": 0
+        },
+        {
+            "text": "quarter",
+            "value": 830,
+            "sentiment": 0
+        },
+        {
+            "text": "national",
+            "value": 821,
+            "sentiment": 0
+        },
+        {
+            "text": "alberta",
+            "value": 798,
+            "sentiment": 0
+        },
+        {
+            "text": "united",
+            "value": 789,
+            "sentiment": 0
+        },
+        {
+            "text": "part",
+            "value": 772,
+            "sentiment": 0
+        },
+        {
+            "text": "cent",
+            "value": 753,
+            "sentiment": 0
+        },
+        {
+            "text": "question",
+            "value": 747,
+            "sentiment": 0
+        },
+        {
+            "text": "good",
+            "value": 742,
+            "sentiment": 1
+        },
+        {
+            "text": "things",
+            "value": 717,
+            "sentiment": 0
+        },
+        {
+            "text": "media",
+            "value": 716,
+            "sentiment": 0
+        },
+        {
+            "text": "business",
+            "value": 714,
+            "sentiment": 0
+        },
+        {
+            "text": "many",
+            "value": 701,
+            "sentiment": 1
+        },
+        {
+            "text": "financial",
+            "value": 693,
+            "sentiment": 0
+        },
+        {
+            "text": "group",
+            "value": 682,
+            "sentiment": 0
+        },
+        {
+            "text": "news",
+            "value": 671,
+            "sentiment": 0
+        },
+        {
+            "text": "lot",
+            "value": 658,
+            "sentiment": 0
+        },
+        {
+            "text": "market",
+            "value": 654,
+            "sentiment": 0
+        },
+        {
+            "text": "justice",
+            "value": 651,
+            "sentiment": 0
+        },
+        {
+            "text": "venezuela",
+            "value": 650,
+            "sentiment": 0
+        },
+        {
+            "text": "analyst",
+            "value": 647,
+            "sentiment": 0
+        },
+        {
+            "text": "right",
+            "value": 637,
+            "sentiment": 1
+        },
+        {
+            "text": "growth",
+            "value": 634,
+            "sentiment": 0
+        }
+    ],
+    "NDP": [
+        {
+            "text": "new",
+            "value": 4195,
+            "sentiment": 1
+        },
+        {
+            "text": "people",
+            "value": 2672,
+            "sentiment": 0
+        },
+        {
+            "text": "government",
+            "value": 2591,
+            "sentiment": 0
+        },
+        {
+            "text": "trump",
+            "value": 2513,
+            "sentiment": 0
+        },
+        {
+            "text": "election",
+            "value": 2339,
+            "sentiment": 0
+        },
+        {
+            "text": "president",
+            "value": 2252,
+            "sentiment": 0
+        },
+        {
+            "text": "campaign",
+            "value": 1860,
+            "sentiment": 0
+        },
+        {
+            "text": "political",
+            "value": 1807,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 1715,
+            "sentiment": 0
+        },
+        {
+            "text": "house",
+            "value": 1582,
+            "sentiment": 0
+        },
+        {
+            "text": "state",
+            "value": 1486,
+            "sentiment": 0
+        },
+        {
+            "text": "former",
+            "value": 1384,
+            "sentiment": 0
+        },
+        {
+            "text": "first",
+            "value": 1284,
+            "sentiment": 1
+        },
+        {
+            "text": "voters",
+            "value": 1245,
+            "sentiment": 0
+        },
+        {
+            "text": "time",
+            "value": 1224,
+            "sentiment": 0
+        },
+        {
+            "text": "alberta",
+            "value": 1204,
+            "sentiment": 0
+        },
+        {
+            "text": "sanders",
+            "value": 1199,
+            "sentiment": 0
+        },
+        {
+            "text": "candidates",
+            "value": 1146,
+            "sentiment": 0
+        },
+        {
+            "text": "candidate",
+            "value": 1109,
+            "sentiment": 0
+        },
+        {
+            "text": "minister",
+            "value": 1094,
+            "sentiment": 0
+        },
+        {
+            "text": "national",
+            "value": 1080,
+            "sentiment": 0
+        },
+        {
+            "text": "two",
+            "value": 1072,
+            "sentiment": 0
+        },
+        {
+            "text": "public",
+            "value": 1066,
+            "sentiment": 0
+        },
+        {
+            "text": "federal",
+            "value": 1057,
+            "sentiment": 0
+        },
+        {
+            "text": "us",
+            "value": 1039,
+            "sentiment": 0
+        },
+        {
+            "text": "presidential",
+            "value": 1034,
+            "sentiment": 0
+        },
+        {
+            "text": "one",
+            "value": 1032,
+            "sentiment": 0
+        },
+        {
+            "text": "years",
+            "value": 1028,
+            "sentiment": 0
+        },
+        {
+            "text": "cent",
+            "value": 1006,
+            "sentiment": 0
+        },
+        {
+            "text": "health",
+            "value": 983,
+            "sentiment": 0
+        },
+        {
+            "text": "deal",
+            "value": 979,
+            "sentiment": 0
+        },
+        {
+            "text": "country",
+            "value": 965,
+            "sentiment": 0
+        },
+        {
+            "text": "support",
+            "value": 954,
+            "sentiment": 0
+        },
+        {
+            "text": "green",
+            "value": 952,
+            "sentiment": -1
+        },
+        {
+            "text": "news",
+            "value": 896,
+            "sentiment": 0
+        },
+        {
+            "text": "vote",
+            "value": 869,
+            "sentiment": 0
+        },
+        {
+            "text": "states",
+            "value": 854,
+            "sentiment": 0
+        },
+        {
+            "text": "tax",
+            "value": 841,
+            "sentiment": 0
+        },
+        {
+            "text": "bill",
+            "value": 830,
+            "sentiment": 0
+        },
+        {
+            "text": "many",
+            "value": 812,
+            "sentiment": 1
+        },
+        {
+            "text": "climate",
+            "value": 810,
+            "sentiment": 0
+        },
+        {
+            "text": "elections",
+            "value": 790,
+            "sentiment": 0
+        },
+        {
+            "text": "care",
+            "value": 783,
+            "sentiment": 0
+        },
+        {
+            "text": "policy",
+            "value": 774,
+            "sentiment": 0
+        },
+        {
+            "text": "percent",
+            "value": 756,
+            "sentiment": 0
+        },
+        {
+            "text": "change",
+            "value": 748,
+            "sentiment": 0
+        },
+        {
+            "text": "united",
+            "value": 744,
+            "sentiment": 0
+        },
+        {
+            "text": "republican",
+            "value": 741,
+            "sentiment": 0
+        },
+        {
+            "text": "republicans",
+            "value": 731,
+            "sentiment": 0
+        },
+        {
+            "text": "kenney",
+            "value": 728,
+            "sentiment": 0
+        }
+    ],
+    "all": [
+        {
+            "text": "government",
+            "value": 9717,
+            "sentiment": 0
+        },
+        {
+            "text": "minister",
+            "value": 8905,
+            "sentiment": 0
+        },
+        {
+            "text": "new",
+            "value": 8495,
+            "sentiment": 1
+        },
+        {
+            "text": "people",
+            "value": 7002,
+            "sentiment": 0
+        },
+        {
+            "text": "wilson-raybould",
+            "value": 6434,
+            "sentiment": 0
+        },
+        {
+            "text": "prime",
+            "value": 5365,
+            "sentiment": 0
+        },
+        {
+            "text": "political",
+            "value": 4979,
+            "sentiment": 0
+        },
+        {
+            "text": "election",
+            "value": 4875,
+            "sentiment": 0
+        },
+        {
+            "text": "snc-lavalin",
+            "value": 4828,
+            "sentiment": 0
+        },
+        {
+            "text": "president",
+            "value": 4654,
+            "sentiment": 0
+        },
+        {
+            "text": "former",
+            "value": 4377,
+            "sentiment": 0
+        },
+        {
+            "text": "federal",
+            "value": 4013,
+            "sentiment": 0
+        },
+        {
+            "text": "leader",
+            "value": 3908,
+            "sentiment": 0
+        },
+        {
+            "text": "time",
+            "value": 3870,
+            "sentiment": 0
+        },
+        {
+            "text": "trump",
+            "value": 3694,
+            "sentiment": 0
+        },
+        {
+            "text": "public",
+            "value": 3534,
+            "sentiment": 0
+        },
+        {
+            "text": "first",
+            "value": 3527,
+            "sentiment": 1
+        },
+        {
+            "text": "us",
+            "value": 3482,
+            "sentiment": 0
+        },
+        {
+            "text": "justice",
+            "value": 3381,
+            "sentiment": 0
+        },
+        {
+            "text": "one",
+            "value": 3364,
+            "sentiment": 0
+        },
+        {
+            "text": "two",
+            "value": 3052,
+            "sentiment": 0
+        },
+        {
+            "text": "years",
+            "value": 3002,
+            "sentiment": 0
+        },
+        {
+            "text": "house",
+            "value": 2959,
+            "sentiment": 0
+        },
+        {
+            "text": "company",
+            "value": 2940,
+            "sentiment": 0
+        },
+        {
+            "text": "country",
+            "value": 2934,
+            "sentiment": 0
+        },
+        {
+            "text": "campaign",
+            "value": 2833,
+            "sentiment": 0
+        },
+        {
+            "text": "committee",
+            "value": 2756,
+            "sentiment": 0
+        },
+        {
+            "text": "national",
+            "value": 2640,
+            "sentiment": 0
+        },
+        {
+            "text": "general",
+            "value": 2633,
+            "sentiment": 1
+        },
+        {
+            "text": "cent",
+            "value": 2501,
+            "sentiment": 0
+        },
+        {
+            "text": "cabinet",
+            "value": 2470,
+            "sentiment": 0
+        },
+        {
+            "text": "office",
+            "value": 2442,
+            "sentiment": 0
+        },
+        {
+            "text": "year",
+            "value": 2440,
+            "sentiment": 0
+        },
+        {
+            "text": "way",
+            "value": 2380,
+            "sentiment": 0
+        },
+        {
+            "text": "news",
+            "value": 2280,
+            "sentiment": 0
+        },
+        {
+            "text": "state",
+            "value": 2260,
+            "sentiment": 0
+        },
+        {
+            "text": "alberta",
+            "value": 2222,
+            "sentiment": 0
+        },
+        {
+            "text": "mr",
+            "value": 2191,
+            "sentiment": 0
+        },
+        {
+            "text": "many",
+            "value": 2173,
+            "sentiment": 1
+        },
+        {
+            "text": "part",
+            "value": 2152,
+            "sentiment": 0
+        },
+        {
+            "text": "support",
+            "value": 2117,
+            "sentiment": 0
+        },
+        {
+            "text": "budget",
+            "value": 2082,
+            "sentiment": 0
+        },
+        {
+            "text": "opposition",
+            "value": 2065,
+            "sentiment": 0
+        },
+        {
+            "text": "chief",
+            "value": 2059,
+            "sentiment": 0
+        },
+        {
+            "text": "deal",
+            "value": 2044,
+            "sentiment": 0
+        },
+        {
+            "text": "world",
+            "value": 2043,
+            "sentiment": 0
+        },
+        {
+            "text": "group",
+            "value": 1998,
+            "sentiment": 0
+        },
+        {
+            "text": "case",
+            "value": 1992,
+            "sentiment": 0
+        },
+        {
+            "text": "united",
+            "value": 1985,
+            "sentiment": 0
+        },
+        {
+            "text": "politics",
+            "value": 1911,
+            "sentiment": 0
+        }
+    ]
+}

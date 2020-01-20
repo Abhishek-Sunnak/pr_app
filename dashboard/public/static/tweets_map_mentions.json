@@ -1,0 +1,44 @@
+[
+    {
+        "Province": "Alberta",
+        "Conservative": 30,
+        "NDP": 16,
+        "Liberals": 32,
+        "Max": "Liberals"
+    },
+    {
+        "Province": "Atlantic",
+        "Conservative": 12,
+        "NDP": 10,
+        "Liberals": 23,
+        "Max": "Liberals"
+    },
+    {
+        "Province": "British Columbia",
+        "Conservative": 44,
+        "NDP": 31,
+        "Liberals": 33,
+        "Max": "Conservative"
+    },
+    {
+        "Province": "Ontario",
+        "Conservative": 101,
+        "NDP": 84,
+        "Liberals": 105,
+        "Max": "Liberals"
+    },
+    {
+        "Province": "Praires",
+        "Conservative": 7,
+        "NDP": 3,
+        "Liberals": 7,
+        "Max": "Liberals"
+    },
+    {
+        "Province": "Quebec",
+        "Conservative": 5,
+        "NDP": 4,
+        "Liberals": 5,
+        "Max": "Liberals"
+    }
+]

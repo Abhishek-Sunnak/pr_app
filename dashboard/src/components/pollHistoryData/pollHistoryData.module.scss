@@ -1,0 +1,14 @@
+@import '../../styles/colors';
+
+.poll-history-title {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px 0;
+  color: $text-color;
+}
+
+.poll-history-container {
+  margin: 0 auto;
+  height: 100%;
+  width: 90%;
+}

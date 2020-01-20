@@ -1,0 +1,20 @@
+@import '../../styles/colors';
+
+.tweets-container {
+  width: 500px;
+}
+
+.neutral {
+  box-shadow: 2px 1px 3px $neutral-box-shadow;
+  border-radius: 4px;
+}
+
+.negative {
+  box-shadow: 2px 1px 3px $negative-box-shadow;
+  border-radius: 4px;
+}
+
+.positive {
+  box-shadow: 2px 1px 3px $positive-box-shadow;
+  border-radius: 4px;
+}

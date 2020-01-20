@@ -1,0 +1,44 @@
+[
+    {
+        "Province": "Alberta",
+        "Conservative": -2.5,
+        "NDP": -0.9375,
+        "Liberals": -1.71875,
+        "Max": "NDP"
+    },
+    {
+        "Province": "Atlantic",
+        "Conservative": -2.9166666666666665,
+        "NDP": -1.5,
+        "Liberals": -1.3043478260869565,
+        "Max": "Liberals"
+    },
+    {
+        "Province": "British Columbia",
+        "Conservative": -2.727272727272727,
+        "NDP": -0.967741935483871,
+        "Liberals": -1.6666666666666667,
+        "Max": "NDP"
+    },
+    {
+        "Province": "Ontario",
+        "Conservative": -3.217821782178218,
+        "NDP": -0.4166666666666667,
+        "Liberals": -2.0476190476190474,
+        "Max": "NDP"
+    },
+    {
+        "Province": "Praires",
+        "Conservative": -2.857142857142857,
+        "NDP": 0.0,
+        "Liberals": -1.4285714285714286,
+        "Max": "NDP"
+    },
+    {
+        "Province": "Quebec",
+        "Conservative": -2.0,
+        "NDP": -2.5,
+        "Liberals": -2.0,
+        "Max": "Liberals"
+    }
+]

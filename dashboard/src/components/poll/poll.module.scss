@@ -1,0 +1,14 @@
+.candidates {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  box-sizing: border-box;
+  // flex-wrap: wrap;
+  padding: 10px;
+  height: 80%;
+  width: 100%;
+}
+
+.legends {
+  height: 10%;
+}

@@ -1,0 +1,610 @@
+{
+    "LPC": [
+        {
+            "text": "#cdnpoli",
+            "value": 29,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeau",
+            "value": 22,
+            "sentiment": 0
+        },
+        {
+            "text": "#canada",
+            "value": 19,
+            "sentiment": 0
+        },
+        {
+            "text": "#snclavalin",
+            "value": 17,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndp",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#scheer",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#justintrudeau",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#jodywilsonraybould",
+            "value": 7,
+            "sentiment": 0
+        },
+        {
+            "text": "#politics",
+            "value": 6,
+            "sentiment": 0
+        },
+        {
+            "text": "#jagmeetsingh",
+            "value": 6,
+            "sentiment": 0
+        },
+        {
+            "text": "#hw",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeaumustgo",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#canadian",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#ppc",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#cpc",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#singh",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#canpoli",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#elections",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#burnaby",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#dia",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndx",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#lpc",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#gpc",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#yyc",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#corruption",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#notrudeau",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#abpoli",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#liberals",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#bernier",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#liberal",
+            "value": 2,
+            "sentiment": 0
+        }
+    ],
+    "CPC": [
+        {
+            "text": "#cdnpoli",
+            "value": 26,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeau",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#scheer",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndp",
+            "value": 6,
+            "sentiment": 0
+        },
+        {
+            "text": "#canada",
+            "value": 6,
+            "sentiment": 0
+        },
+        {
+            "text": "#ppc",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#alberta",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#canpoli",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#cpc",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#bernier",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#snclavalin",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#liberal",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#singh",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#canadian",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#politics",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#conservative",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#trump",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#conservatives",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#supremecourt",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#cdnmedia",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#nanos",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#cultofmax",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#standwithtrudeau",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeaumustgo",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#berniernation",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#madmax",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#trueconservative",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#nation",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#jodywilsonraybould",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#votescheer",
+            "value": 1,
+            "sentiment": 0
+        }
+    ],
+    "NDP": [
+        {
+            "text": "#jagmeetsingh",
+            "value": 16,
+            "sentiment": 0
+        },
+        {
+            "text": "#burnabysouth",
+            "value": 16,
+            "sentiment": 0
+        },
+        {
+            "text": "#cdnpoli",
+            "value": 12,
+            "sentiment": 0
+        },
+        {
+            "text": "#canada",
+            "value": 10,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndp",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#daughtersofthevote",
+            "value": 7,
+            "sentiment": 0
+        },
+        {
+            "text": "#elections",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#bcpoli",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndpleader",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndpldr",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#byelections",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#election",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#singh",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#burnaby",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeau",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#notrudeau",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#canpoli",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#justintrudeau",
+            "value": 2,
+            "sentiment": 0
+        },
+        {
+            "text": "#politics",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#cdnmedia",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#bringit",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndp's",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#partyleader",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#democraticparty",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#politician",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#elction",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#trump",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#presidentdonaldjtrump",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#michellerempel",
+            "value": 1,
+            "sentiment": 0
+        },
+        {
+            "text": "#marshillblog",
+            "value": 1,
+            "sentiment": 0
+        }
+    ],
+    "all": [
+        {
+            "text": "#cdnpoli",
+            "value": 53,
+            "sentiment": 0
+        },
+        {
+            "text": "#canada",
+            "value": 28,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeau",
+            "value": 23,
+            "sentiment": 0
+        },
+        {
+            "text": "#snclavalin",
+            "value": 17,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndp",
+            "value": 17,
+            "sentiment": 0
+        },
+        {
+            "text": "#jagmeetsingh",
+            "value": 16,
+            "sentiment": 0
+        },
+        {
+            "text": "#burnabysouth",
+            "value": 16,
+            "sentiment": 0
+        },
+        {
+            "text": "#scheer",
+            "value": 11,
+            "sentiment": 0
+        },
+        {
+            "text": "#justintrudeau",
+            "value": 9,
+            "sentiment": 0
+        },
+        {
+            "text": "#politics",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#jodywilsonraybould",
+            "value": 8,
+            "sentiment": 0
+        },
+        {
+            "text": "#daughtersofthevote",
+            "value": 7,
+            "sentiment": 0
+        },
+        {
+            "text": "#elections",
+            "value": 7,
+            "sentiment": 0
+        },
+        {
+            "text": "#canpoli",
+            "value": 6,
+            "sentiment": 0
+        },
+        {
+            "text": "#ppc",
+            "value": 6,
+            "sentiment": 0
+        },
+        {
+            "text": "#singh",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#canadian",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#hw",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#bcpoli",
+            "value": 5,
+            "sentiment": 0
+        },
+        {
+            "text": "#cpc",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#trudeaumustgo",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#liberal",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#trump",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndpleader",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#ndpldr",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#byelections",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#election",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#alberta",
+            "value": 4,
+            "sentiment": 0
+        },
+        {
+            "text": "#abpoli",
+            "value": 3,
+            "sentiment": 0
+        },
+        {
+            "text": "#bernier",
+            "value": 3,
+            "sentiment": 0
+        }
+    ]
+}

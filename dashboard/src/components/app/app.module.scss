@@ -1,0 +1,138 @@
+@import '../../styles/colors';
+
+.app {
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  height: 10vh;
+}
+
+.app-body {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  height: 90vh;
+}
+
+.pane-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.word-cloud {
+  height: 75% !important;
+}
+
+.variable-pane-container {
+  overflow: scroll;
+}
+
+.app-pane {
+  display: flex;
+  flex-wrap: wrap;
+  height: 90vh;
+  justify-content: space-evenly;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.static {
+  box-sizing: border-box;
+  padding: 10px;
+  // border-right: 1px solid $border-theme;
+}
+
+.static-pane {
+  width: 100%;
+  height: 49%;
+  overflow: hidden;
+  border: 1px solid $border-theme;
+  margin-bottom: 5px;
+}
+
+.pane {
+  width: 100%;
+  height: 49%;
+  overflow: hidden;
+  border: 1px solid $border-theme;
+  padding: 10px;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
+
+.line {
+  width: 90%;
+  margin: 0 auto;
+  background-color: $border-theme;
+  height: 1px;
+}
+
+.full-pane {
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  box-shadow: 3px 3px 3px $box-shadow;
+  border: 1px solid $border-theme;
+  padding: 10px;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
+
+.arrow-container {
+  width: 40px;
+  height: 5%;
+  margin: 0 auto;
+}
+
+.dynamic-container {
+  width: 100%;
+  height: 90%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid $arrow-color;
+  position: absolute;
+  bottom: 5px;
+  cursor: pointer;
+
+  &:hover {
+    border-top: 20px solid $arrow-color-on-hover;
+  }
+}
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid $arrow-color;
+  position: absolute;
+  top: 5px;
+  cursor: pointer;
+
+  &:hover {
+    border-bottom: 20px solid $arrow-color-on-hover;
+  }
+}
+
+.disabled {
+  opacity: 0.2;
+  pointer-events: none;
+  cursor: not-allowed;
+
+  &:hover {
+    // border-bottom: 20px solid $arrow-color; 
+    opacity: 0.2;   
+  }
+}

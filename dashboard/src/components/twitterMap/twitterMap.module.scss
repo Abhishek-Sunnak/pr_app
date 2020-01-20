@@ -1,0 +1,40 @@
+@import '../../styles/colors';
+
+.twitter-map-container {
+  width: 100%;
+  height: 84%;
+}
+
+.tabs-container {
+  display: flex;
+  width: 100%;
+  height: 10%;
+  box-sizing: border-box;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+
+.tabs {
+  width: 100px;
+  cursor: pointer;
+  margin-right: 10px;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid $theme-color;
+  border-radius: 20px;
+  box-sizing: border-box;
+  transition: transform 0.2s;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.selected {
+  background: $theme-color;
+  color: $header-light-theme;
+  border: 1px solid $header-light-theme;
+}

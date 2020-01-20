@@ -1,0 +1,51 @@
+@import '../../styles/colors';
+
+.header-container {
+  padding: 10px 0;
+  background: $theme-color;
+  color: #fff;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.tabs {
+  justify-content: flex-end;
+  display: flex;
+  width: 95%;
+  list-style: none;
+  margin: 0;
+}
+
+.title {
+  text-align: center;
+  width: 100%;
+  font-size: 30px;
+  transform: translateY(-50%);
+  width: 30%;
+  margin: 0 auto;
+  color: $header-light-theme;
+}
+
+.tab {
+  width: 100px;
+  margin-right: 10px;
+  text-align: center;
+  cursor: pointer;  
+  text-transform: uppercase;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.2s;
+  padding-bottom: 3px;
+  color: $header-secondary-color;
+  &:hover {
+    border-bottom: 2px solid $header-secondary-color;
+  }
+}
+
+.selected {
+  color: $header-light-theme;
+  cursor: default;
+  border-bottom: 2px solid $header-light-theme;
+  &:hover {
+    border-bottom: 2px solid $header-light-theme;
+  }
+}

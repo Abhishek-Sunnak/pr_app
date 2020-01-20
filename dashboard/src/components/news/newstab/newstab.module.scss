@@ -1,0 +1,56 @@
+@import '../../../styles/colors';
+
+.news-container {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+.negative {
+  box-shadow: 2px 1px 3px $negative-box-shadow;
+  border: 1px solid $negative-box-shadow;
+  border-radius: 4px;
+}
+
+.positive {
+  box-shadow: 2px 1px 3px $positive-box-shadow;
+  border: 1px solid $positive-box-shadow;
+  border-radius: 4px;
+}
+
+.neutral {
+  box-shadow: 2px 1px 3px $neutral-box-shadow;
+  border: 1px solid $neutral-box-shadow;
+  border-radius: 4px;
+}
+
+.headline {
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: $text-color;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.summary {
+  font-size: 14px;
+  padding-top: 5px;
+  line-height: 1.5;
+  span {
+    color: $link-color;
+    cursor: pointer;
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
+}
+
+.link {
+  font-size: 14px;
+  color: $link-color;
+  cursor: pointer;
+  &:hover {
+    color: $link-color-hover;
+  }
+}

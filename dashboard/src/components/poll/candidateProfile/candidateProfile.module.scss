@@ -1,0 +1,63 @@
+@import '../../../styles/colors';
+
+.candidate-name {
+  text-align: center;
+  color: $text-color;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 0;
+  margin-top: 3px;
+}
+
+.candidate-party {
+  text-align: center;
+  margin: 0;
+  font-size: 14px;
+  color: $second-text-color;
+  font-weight: 600;
+}
+
+.candidate-poll-ratings {
+  text-align: center;
+  margin: 0;
+  font-size: 14px;
+  color: $second-text-color;
+  span {
+    font-weight: 700;
+  }
+}
+
+.candidate-container {
+  width: 32%;
+  height: 100%;
+  text-align: center;
+  margin-bottom: 5px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px 2px 3px $box-shadow;
+  cursor: pointer;
+}
+
+.unclicked {
+  &:hover {
+    background: $background-selected-color;
+  }
+}
+
+.clicked {
+  box-shadow: 1px 2px 3px $box-shadow inset;
+  background: $background-selected-color;
+}
+
+.candidate-image {
+  width: 91px;
+  height: 91px;  
+  top: 33px;
+  left: 66px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 1;
+}
